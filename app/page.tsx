@@ -36,7 +36,7 @@ export default function HomePage() {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.6 }}
               >
-                <h1 className="text-5xl lg:text-7xl font-bold mb-6 bg-gradient-to-r from-orange-600 to-pink-600 bg-clip-text text-transparent">
+                <h1 className="text-4xl lg:text-6xl font-bold mb-6 bg-gradient-to-r from-orange-600 to-pink-600 bg-clip-text text-transparent">
                   Transform Your Space
                 </h1>
                 <p className="text-xl text-gray-600 mb-8 leading-relaxed">

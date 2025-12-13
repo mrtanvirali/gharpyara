@@ -583,7 +583,7 @@ export const products: Product[] = [
   },
 
   {
-  id: '33',
+  id: '34',
     name: 'Sofa Sets 02',
     description: 'Sofa Set with elegant design. Perfect for contemporary living spaces.',
     price: 400.99,
@@ -601,7 +601,7 @@ export const products: Product[] = [
   },
 
   {
-  id: '34',
+  id: '35',
     name: 'Sofa Sets 03',
     description: 'Sofa Set with elegant design. Perfect for contemporary living spaces.',
     price: 400.99,
@@ -618,7 +618,7 @@ export const products: Product[] = [
   },
 
   {
-  id: '35',
+  id: '36',
     name: 'Sofa Sets 04',
     description: 'Sofa Set with elegant design. Perfect for contemporary living spaces.',
     price: 400.99,
@@ -635,7 +635,7 @@ export const products: Product[] = [
   },
 
   {
-  id: '36',
+  id: '37',
     name: 'Office Furniture 01', 
     description: 'Office Furniture with elegant design. Perfect for contemporary living spaces.',
     price: 400.99,
@@ -653,7 +653,7 @@ export const products: Product[] = [
   },
 
   {
-  id: '37',
+  id: '38',
     name: 'Office Furniture 02', 
     description: 'Office Furniture with elegant design. Perfect for contemporary living spaces.',
     price: 400.99,
@@ -670,7 +670,7 @@ export const products: Product[] = [
   },
 
   {
-  id: '38',
+  id: '39',
     name: 'Office Furniture 03', 
     description: 'Office Furniture with elegant design. Perfect for contemporary living spaces.',
     price: 400.99,
@@ -687,7 +687,7 @@ export const products: Product[] = [
   },
 
   {
-  id: '39',
+  id: '40',
     name: 'Office Furniture 04', 
     description: 'Office Furniture with elegant design. Perfect for contemporary living spaces.',
     price: 400.99,
