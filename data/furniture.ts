@@ -564,5 +564,144 @@ export const products: Product[] = [
     newArrival: true,
   },
 
+  {
+  id: '33',
+    name: 'Sofa Sets 01',
+    description: 'Sofa Set with elegant design. Perfect for contemporary living spaces.',
+    price: 400.99,
+    category: 'Sofa Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/sofa/sofa-01.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Grey & Brown'
+    },
+    newArrival: true,
+  },
+
+  {
+  id: '33',
+    name: 'Sofa Sets 02',
+    description: 'Sofa Set with elegant design. Perfect for contemporary living spaces.',
+    price: 400.99,
+    category: 'Sofa Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/sofa/sofa-02.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Grey & Brown'
+    },
+    featured: true,
+  },
+
+  {
+  id: '34',
+    name: 'Sofa Sets 03',
+    description: 'Sofa Set with elegant design. Perfect for contemporary living spaces.',
+    price: 400.99,
+    category: 'Sofa Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/sofa/sofa-03.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+  {
+  id: '35',
+    name: 'Sofa Sets 04',
+    description: 'Sofa Set with elegant design. Perfect for contemporary living spaces.',
+    price: 400.99,
+    category: 'Sofa Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/sofa/sofa-04.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+  {
+  id: '36',
+    name: 'Office Furniture 01', 
+    description: 'Office Furniture with elegant design. Perfect for contemporary living spaces.',
+    price: 400.99,
+    category: 'Office Furniture',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/office/office-01.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Grey & Brown'
+    },
+     featured: true,
+  },
+
+  {
+  id: '37',
+    name: 'Office Furniture 02', 
+    description: 'Office Furniture with elegant design. Perfect for contemporary living spaces.',
+    price: 400.99,
+    category: 'Office Furniture',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/office/office-02.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+  {
+  id: '38',
+    name: 'Office Furniture 03', 
+    description: 'Office Furniture with elegant design. Perfect for contemporary living spaces.',
+    price: 400.99,
+    category: 'Office Furniture',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/office/office-03.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+  {
+  id: '39',
+    name: 'Office Furniture 04', 
+    description: 'Office Furniture with elegant design. Perfect for contemporary living spaces.',
+    price: 400.99,
+    category: 'Office Furniture',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/office/office-04.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
 ];
 
