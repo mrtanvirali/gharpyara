@@ -1659,4 +1659,344 @@ export const products: Product[] = [
     },
   },
 
+ {
+    id: '97',
+    name: 'Dinning Set 05',
+    description: 'Dinning Room Set with elegant design. Perfect for contemporary living spaces.',
+    price: 600.99,
+    category: 'Dinning Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/dinning/dinning-97.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '220 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+ {
+    id: '98',
+    name: 'Dinning Set 06',
+    description: 'Dinning Room Set with elegant design. Perfect for contemporary living spaces.',
+    price: 600.99,
+    category: 'Dinning Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/dinning/dinning-98.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '220 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+ {
+    id: '99',
+    name: 'Dinning Set 07',
+    description: 'Dinning Room Set with elegant design. Perfect for contemporary living spaces.',
+    price: 600.99,
+    category: 'Dinning Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/dinning/dinning-07.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '220 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+ {
+    id: '100',
+    name: 'Dinning Set 08',
+    description: 'Dinning Room Set with elegant design. Perfect for contemporary living spaces.',
+    price: 600.99,
+    category: 'Dinning Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/dinning/dinning-08.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '220 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+ {
+    id: '101',
+    name: 'Dinning Set 09',
+    description: 'Dinning Room Set with elegant design. Perfect for contemporary living spaces.',
+    price: 600.99,
+    category: 'Dinning Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/dinning/dinning-09.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '220 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+ {
+    id: '102',
+    name: 'Dinning Set 10',
+    description: 'Dinning Room Set with elegant design. Perfect for contemporary living spaces.',
+    price: 600.99,
+    category: 'Dinning Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/dinning/dinning-10.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '220 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+ {
+    id: '103',
+    name: 'Dinning Set 11',
+    description: 'Dinning Room Set with elegant design. Perfect for contemporary living spaces.',
+    price: 600.99,
+    category: 'Dinning Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/dinning/dinning-11.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '220 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+ {
+    id: '104',
+    name: 'Dinning Set 12',
+    description: 'Dinning Room Set with elegant design. Perfect for contemporary living spaces.',
+    price: 600.99,
+    category: 'Dinning Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/dinning/dinning-12.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '220 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+ {
+    id: '105',
+    name: 'Dinning Set 13',
+    description: 'Dinning Room Set with elegant design. Perfect for contemporary living spaces.',
+    price: 600.99,
+    category: 'Dinning Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/dinning/dinning-13.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '220 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+ {
+    id: '106',
+    name: 'Dinning Set 14',
+    description: 'Dinning Room Set with elegant design. Perfect for contemporary living spaces.',
+    price: 600.99,
+    category: 'Dinning Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/dinning/dinning-14.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '220 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+{
+  id: '107',
+    name: 'Sofa Sets 05',
+    description: 'Sofa Set with elegant design. Perfect for contemporary living spaces.',
+    price: 400.99,
+    category: 'Sofa Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/sofa/sofa-05.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+{
+  id: '108',
+    name: 'Sofa Sets 06',
+    description: 'Sofa Set with elegant design. Perfect for contemporary living spaces.',
+    price: 400.99,
+    category: 'Sofa Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/sofa/sofa-06.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+{
+  id: '109',
+    name: 'Sofa Sets 07',
+    description: 'Sofa Set with elegant design. Perfect for contemporary living spaces.',
+    price: 400.99,
+    category: 'Sofa Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/sofa/sofa-07.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+{
+  id: '110',
+    name: 'Sofa Sets 08',
+    description: 'Sofa Set with elegant design. Perfect for contemporary living spaces.',
+    price: 400.99,
+    category: 'Sofa Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/sofa/sofa-08.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+{
+  id: '111',
+    name: 'Sofa Sets 09',
+    description: 'Sofa Set with elegant design. Perfect for contemporary living spaces.',
+    price: 400.99,
+    category: 'Sofa Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/sofa/sofa-09.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+{
+  id: '112',
+    name: 'Sofa Sets 10',
+    description: 'Sofa Set with elegant design. Perfect for contemporary living spaces.',
+    price: 400.99,
+    category: 'Sofa Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/sofa/sofa-10.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+{
+  id: '113',
+    name: 'Sofa Sets 11',
+    description: 'Sofa Set with elegant design. Perfect for contemporary living spaces.',
+    price: 400.99,
+    category: 'Sofa Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/sofa/sofa-11.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+{
+  id: '114',
+    name: 'Sofa Sets 12',
+    description: 'Sofa Set with elegant design. Perfect for contemporary living spaces.',
+    price: 400.99,
+    category: 'Sofa Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/sofa/sofa-12.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+{
+  id: '115',
+    name: 'Sofa Sets 13',
+    description: 'Sofa Set with elegant design. Perfect for contemporary living spaces.',
+    price: 400.99,
+    category: 'Sofa Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/sofa/sofa-13.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+{
+  id: '116',
+    name: 'Sofa Sets 14',
+    description: 'Sofa Set with elegant design. Perfect for contemporary living spaces.',
+    price: 400.99,
+    category: 'Sofa Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/sofa/sofa-14.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
 ];
