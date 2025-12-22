@@ -702,6 +702,961 @@ export const products: Product[] = [
       color: 'Grey & Brown'
     },
   },
+  
+  {
+  id: '41',
+    name: 'Office Furniture 05', 
+    description: 'Office Furniture with elegant design. Perfect for contemporary living spaces.',
+    price: 400.99,
+    category: 'Office Furniture',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/office/office-05.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+{
+  id: '42',
+    name: 'Office Furniture 06', 
+    description: 'Office Furniture with elegant design. Perfect for contemporary living spaces.',
+    price: 400.99,
+    category: 'Office Furniture',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/office/office-06.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+  {
+    id: '43',
+    name: 'Bedroom Sets 11',
+    description: 'Bedroom Set with elegant design. Perfect for contemporary living spaces.',
+    price: 500.99,
+    category: 'Bedroom Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/bedroom/bedroom-11.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Walnut Brown'
+    },
+  },
+
+{
+    id: '44',
+    name: 'Bedroom Sets 12',
+    description: 'Bedroom Set with elegant design. Perfect for contemporary living spaces.',
+    price: 500.99,
+    category: 'Bedroom Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/bedroom/bedroom-12.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Walnut Brown'
+    },
+  },
+
+{
+    id: '45',
+    name: 'Bedroom Sets 13',
+    description: 'Bedroom Set with elegant design. Perfect for contemporary living spaces.',
+    price: 500.99,
+    category: 'Bedroom Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/bedroom/bedroom-13.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Walnut Brown'
+    },
+  },
+
+{
+    id: '46',
+    name: 'Bedroom Sets 14',
+    description: 'Bedroom Set with elegant design. Perfect for contemporary living spaces.',
+    price: 500.99,
+    category: 'Bedroom Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/bedroom/bedroom-14.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Walnut Brown'
+    },
+  },
+
+{
+    id: '47',
+    name: 'Bedroom Sets 15',
+    description: 'Bedroom Set with elegant design. Perfect for contemporary living spaces.',
+    price: 500.99,
+    category: 'Bedroom Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/bedroom/bedroom-15.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Walnut Brown'
+    },
+  },
+
+{
+    id: '48',
+    name: 'Bedroom Sets 16',
+    description: 'Bedroom Set with elegant design. Perfect for contemporary living spaces.',
+    price: 500.99,
+    category: 'Bedroom Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/bedroom/bedroom-16.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Walnut Brown'
+    },
+  },
+
+{
+    id: '49',
+    name: 'Bedroom Sets 17',
+    description: 'Bedroom Set with elegant design. Perfect for contemporary living spaces.',
+    price: 500.99,
+    category: 'Bedroom Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/bedroom/bedroom-17.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Walnut Brown'
+    },
+  },
+
+{
+    id: '50',
+    name: 'Bedroom Sets 18',
+    description: 'Bedroom Set with elegant design. Perfect for contemporary living spaces.',
+    price: 500.99,
+    category: 'Bedroom Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/bedroom/bedroom-18.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Walnut Brown'
+    },
+  },
+
+ {
+    id: '51',
+    name: 'Bedroom Sets 19',
+    description: 'Bedroom Set with elegant design. Perfect for contemporary living spaces.',
+    price: 500.99,
+    category: 'Bedroom Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/bedroom/bedroom-19.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Walnut Brown'
+    },
+  }, 
+
+ {
+    id: '52',
+    name: 'Bedroom Sets 20',
+    description: 'Bedroom Set with elegant design. Perfect for contemporary living spaces.',
+    price: 500.99,
+    category: 'Bedroom Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/bedroom/bedroom-20.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Walnut Brown'
+    },
+  },
+  
+ {
+    id: '53',
+    name: 'Bedroom Sets 21',
+    description: 'Bedroom Set with elegant design. Perfect for contemporary living spaces.',
+    price: 500.99,
+    category: 'Bedroom Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/bedroom/bedroom-21.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Walnut Brown'
+    },
+  },   
+
+{
+    id: '54',
+    name: 'Bedroom Sets 22',
+    description: 'Bedroom Set with elegant design. Perfect for contemporary living spaces.',
+    price: 500.99,
+    category: 'Bedroom Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/bedroom/bedroom-22.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Walnut Brown'
+    },
+  },
+  
+{
+    id: '55',
+    name: 'Bedroom Sets 23',
+    description: 'Bedroom Set with elegant design. Perfect for contemporary living spaces.',
+    price: 500.99,
+    category: 'Bedroom Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/bedroom/bedroom-23.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Walnut Brown'
+    },
+  },   
+
+ {
+    id: '56',
+    name: 'Bedroom Sets 24',
+    description: 'Bedroom Set with elegant design. Perfect for contemporary living spaces.',
+    price: 500.99,
+    category: 'Bedroom Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/bedroom/bedroom-24.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Walnut Brown'
+    },
+  },   
+  
+{
+    id: '57',
+    name: 'Bedroom Sets 25',
+    description: 'Bedroom Set with elegant design. Perfect for contemporary living spaces.',
+    price: 500.99,
+    category: 'Bedroom Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/bedroom/bedroom-25.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Walnut Brown'
+    },
+  },   
+
+{
+    id: '58',
+    name: 'Bedroom Sets 26',
+    description: 'Bedroom Set with elegant design. Perfect for contemporary living spaces.',
+    price: 500.99,
+    category: 'Bedroom Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/bedroom/bedroom-26.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Walnut Brown'
+    },
+  },   
+
+{
+    id: '59',
+    name: 'Bedroom Sets 27',
+    description: 'Bedroom Set with elegant design. Perfect for contemporary living spaces.',
+    price: 500.99,
+    category: 'Bedroom Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/bedroom/bedroom-27.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Walnut Brown'
+    },
+  },   
+
+{
+    id: '60',
+    name: 'Bedroom Sets 28',
+    description: 'Bedroom Set with elegant design. Perfect for contemporary living spaces.',
+    price: 500.99,
+    category: 'Bedroom Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/bedroom/bedroom-28.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Walnut Brown'
+    },
+  },   
+
+{
+    id: '61',
+    name: 'Bedroom Sets 29',
+    description: 'Bedroom Set with elegant design. Perfect for contemporary living spaces.',
+    price: 500.99,
+    category: 'Bedroom Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/bedroom/bedroom-29.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Walnut Brown'
+    },
+  },   
+
+{
+    id: '62',
+    name: 'Bedroom Sets 30',
+    description: 'Bedroom Set with elegant design. Perfect for contemporary living spaces.',
+    price: 500.99,
+    category: 'Bedroom Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/bedroom/bedroom-30.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Walnut Brown'
+    },
+  },   
+
+{
+    id: '63',
+    name: 'Bedroom Sets 31',
+    description: 'Bedroom Set with elegant design. Perfect for contemporary living spaces.',
+    price: 500.99,
+    category: 'Bedroom Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/bedroom/bedroom-31.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Walnut Brown'
+    },
+  },   
+
+{
+    id: '64',
+    name: 'Bedroom Sets 32',
+    description: 'Bedroom Set with elegant design. Perfect for contemporary living spaces.',
+    price: 500.99,
+    category: 'Bedroom Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/bedroom/bedroom-32.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Walnut Brown'
+    },
+  },   
+
+{
+    id: '65',
+    name: 'Bedroom Sets 33',
+    description: 'Bedroom Set with elegant design. Perfect for contemporary living spaces.',
+    price: 500.99,
+    category: 'Bedroom Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/bedroom/bedroom-33.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Walnut Brown'
+    },
+  },   
+
+{
+    id: '66',
+    name: 'Bedroom Sets 34',
+    description: 'Bedroom Set with elegant design. Perfect for contemporary living spaces.',
+    price: 500.99,
+    category: 'Bedroom Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/bedroom/bedroom-34.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Walnut Brown'
+    },
+  }, 
+  
+{
+    id: '67',
+    name: 'Bedroom Sets 35',
+    description: 'Bedroom Set with elegant design. Perfect for contemporary living spaces.',
+    price: 500.99,
+    category: 'Bedroom Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/bedroom/bedroom-35.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Walnut Brown'
+    },
+  },   
+
+{
+    id: '68',
+    name: 'Bedroom Sets 36',
+    description: 'Bedroom Set with elegant design. Perfect for contemporary living spaces.',
+    price: 500.99,
+    category: 'Bedroom Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/bedroom/bedroom-36.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Walnut Brown'
+    },
+  },   
+
+{
+    id: '69',
+    name: 'Bedroom Sets 37',
+    description: 'Bedroom Set with elegant design. Perfect for contemporary living spaces.',
+    price: 500.99,
+    category: 'Bedroom Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/bedroom/bedroom-37.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Walnut Brown'
+    },
+  },   
+
+{
+    id: '70',
+    name: 'Bedroom Sets 38',
+    description: 'Bedroom Set with elegant design. Perfect for contemporary living spaces.',
+    price: 500.99,
+    category: 'Bedroom Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/bedroom/bedroom-38.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Walnut Brown'
+    },
+  },   
+
+{
+    id: '71',
+    name: 'Bedroom Sets 39',
+    description: 'Bedroom Set with elegant design. Perfect for contemporary living spaces.',
+    price: 500.99,
+    category: 'Bedroom Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/bedroom/bedroom-39.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Walnut Brown'
+    },
+  },   
+
+{
+    id: '72',
+    name: 'Bedroom Sets 40',
+    description: 'Bedroom Set with elegant design. Perfect for contemporary living spaces.',
+    price: 500.99,
+    category: 'Bedroom Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/bedroom/bedroom-40.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Walnut Brown'
+    },
+  },   
+
+{
+    id: '73',
+    name: 'Bedroom Sets 41',
+    description: 'Bedroom Set with elegant design. Perfect for contemporary living spaces.',
+    price: 500.99,
+    category: 'Bedroom Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/bedroom/bedroom-41.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Walnut Brown'
+    },
+  },   
+
+{
+    id: '74',
+    name: 'Bedroom Sets 42',
+    description: 'Bedroom Set with elegant design. Perfect for contemporary living spaces.',
+    price: 500.99,
+    category: 'Bedroom Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/bedroom/bedroom-42.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Walnut Brown'
+    },
+  },   
+
+{
+    id: '75',
+    name: 'Bedroom Sets 43',
+    description: 'Bedroom Set with elegant design. Perfect for contemporary living spaces.',
+    price: 500.99,
+    category: 'Bedroom Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/bedroom/bedroom-43.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Walnut Brown'
+    },
+  },
+  
+{
+    id: '76',
+    name: 'Bedroom Sets 44',
+    description: 'Bedroom Set with elegant design. Perfect for contemporary living spaces.',
+    price: 500.99,
+    category: 'Bedroom Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/bedroom/bedroom-44.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Walnut Brown'
+    },
+  },
+  
+{
+    id: '77',
+    name: 'Living Room 05',
+    description: 'Living Room Set with elegant design. Perfect for contemporary living spaces.',
+    price: 1000.99,
+    category: 'Living Room',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/living/living-05.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '220 lbs',
+      color: 'Grey & Brown'
+    },
+  }, 
+
+{
+    id: '78',
+    name: 'Living Room 06',
+    description: 'Living Room Set with elegant design. Perfect for contemporary living spaces.',
+    price: 1000.99,
+    category: 'Living Room',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/living/living-06.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '220 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+{
+    id: '79',
+    name: 'Living Room 07',
+    description: 'Living Room Set with elegant design. Perfect for contemporary living spaces.',
+    price: 1000.99,
+    category: 'Living Room',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/living/living-07.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '220 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+{
+    id: '80',
+    name: 'Living Room 08',
+    description: 'Living Room Set with elegant design. Perfect for contemporary living spaces.',
+    price: 1000.99,
+    category: 'Living Room',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/living/living-08.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '220 lbs',
+      color: 'Grey & Brown'
+    },
+  }, 
+
+{
+    id: '81',
+    name: 'Living Room 09',
+    description: 'Living Room Set with elegant design. Perfect for contemporary living spaces.',
+    price: 1000.99,
+    category: 'Living Room',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/living/living-09.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '220 lbs',
+      color: 'Grey & Brown'
+    },
+  }, 
+
+{
+    id: '82',
+    name: 'Living Room 10',
+    description: 'Living Room Set with elegant design. Perfect for contemporary living spaces.',
+    price: 1000.99,
+    category: 'Living Room',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/living/living-10.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '220 lbs',
+      color: 'Grey & Brown'
+    },
+  }, 
+
+{
+    id: '83',
+    name: 'Living Room 11',
+    description: 'Living Room Set with elegant design. Perfect for contemporary living spaces.',
+    price: 1000.99,
+    category: 'Living Room',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/living/living-11.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '220 lbs',
+      color: 'Grey & Brown'
+    },
+  }, 
+
+{
+    id: '84',
+    name: 'Living Room 12',
+    description: 'Living Room Set with elegant design. Perfect for contemporary living spaces.',
+    price: 1000.99,
+    category: 'Living Room',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/living/living-12.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '220 lbs',
+      color: 'Grey & Brown'
+    },
+  }, 
+
+{
+    id: '85',
+    name: 'Wardrobes 03',
+    description: 'Wardrobe with elegant design. Perfect for contemporary living spaces.',
+    price: 200.99,
+    category: 'Wardrobes',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/wardrobe/wardrobe-03.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '70 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+{
+    id: '86',
+    name: 'Wardrobes 04',
+    description: 'Wardrobe with elegant design. Perfect for contemporary living spaces.',
+    price: 200.99,
+    category: 'Wardrobes',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/wardrobe/wardrobe-04.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '70 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+{
+    id: '87',
+    name: 'Wardrobes 05',
+    description: 'Wardrobe with elegant design. Perfect for contemporary living spaces.',
+    price: 200.99,
+    category: 'Wardrobes',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/wardrobe/wardrobe-05.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '70 lbs',
+      color: 'Grey & Brown'
+    },
+    newArrival: true,
+  },
+
+{
+    id: '88',
+    name: 'Wardrobes 06',
+    description: 'Wardrobe with elegant design. Perfect for contemporary living spaces.',
+    price: 200.99,
+    category: 'Wardrobes',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/wardrobe/wardrobe-06.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '70 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+{
+    id: '89',
+    name: 'Wardrobes 07',
+    description: 'Wardrobe with elegant design. Perfect for contemporary living spaces.',
+    price: 200.99,
+    category: 'Wardrobes',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/wardrobe/wardrobe-07.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '70 lbs',
+      color: 'Grey & Brown'
+    },
+   },
+
+{
+    id: '90',
+    name: 'Wardrobes 08',
+    description: 'Living Room Set with elegant design. Perfect for contemporary living spaces.',
+    price: 200.99,
+    category: 'Wardrobes',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/wardrobe/wardrobe-08.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '70 lbs',
+      color: 'Grey & Brown'
+    },
+   },
+
+{
+    id: '91',
+    name: 'Wardrobes 02',
+    description: 'Wardrobe with elegant design. Perfect for contemporary living spaces.',
+    price: 200.99,
+    category: 'Wardrobes',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/wardrobe/wardrobe-09.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '70 lbs',
+      color: 'Grey & Brown'
+    },
+    newArrival: true,
+  },
+
+{
+    id: '92',
+    name: 'Wardrobes 10',
+    description: 'Wardrobe with elegant design. Perfect for contemporary living spaces.',
+    price: 200.99,
+    category: 'Wardrobes',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/wardrobe/wardrobe-10.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '70 lbs',
+      color: 'Grey & Brown'
+    },
+    newArrival: true,
+  },
+
+{
+    id: '93',
+    name: 'Wardrobes 11',
+    description: 'Wardrobe with elegant design. Perfect for contemporary living spaces.',
+    price: 200.99,
+    category: 'Wardrobes',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/wardrobe/wardrobe-11.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '70 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+{
+    id: '94',
+    name: 'Wardrobes 12',
+    description: 'Wardrobe with elegant design. Perfect for contemporary living spaces.',
+    price: 200.99,
+    category: 'Wardrobes',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/wardrobe/wardrobe-12.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '70 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+{
+    id: '95',
+    name: 'Wardrobes 13',
+    description: 'Wardrobe with elegant design. Perfect for contemporary living spaces.',
+    price: 200.99,
+    category: 'Wardrobes',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/wardrobe/wardrobe-13.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '70 lbs',
+      color: 'Grey & Brown'
+    },
+    newArrival: true,
+  },
+
+{
+    id: '96',
+    name: 'Wardrobes 14',
+    description: 'Wardrobe with elegant design. Perfect for contemporary living spaces.',
+    price: 200.99,
+    category: 'Wardrobes',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/wardrobe/wardrobe-14.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '70 lbs',
+      color: 'Grey & Brown'
+    },
+  },
 
 ];
-
