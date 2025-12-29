@@ -1999,4 +1999,293 @@ export const products: Product[] = [
     },
   },
 
+{
+  id: '117',
+    name: 'Sofa Sets 15',
+    description: 'Sofa Set with elegant design. Perfect for contemporary living spaces.',
+    price: 400.99,
+    category: 'Sofa Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/sofa/sofa-15.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+{
+  id: '118',
+    name: 'Sofa Sets 16',
+    description: 'Sofa Set with elegant design. Perfect for contemporary living spaces.',
+    price: 400.99,
+    category: 'Sofa Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/sofa/sofa-16.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+{
+  id: '119',
+    name: 'Sofa Sets 17',
+    description: 'Sofa Set with elegant design. Perfect for contemporary living spaces.',
+    price: 400.99,
+    category: 'Sofa Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/sofa/sofa-17.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+{
+  id: '120',
+    name: 'Sofa Sets 18',
+    description: 'Sofa Set with elegant design. Perfect for contemporary living spaces.',
+    price: 400.99,
+    category: 'Sofa Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/sofa/sofa-18.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+{
+  id: '121',
+    name: 'Sofa Sets 19',
+    description: 'Sofa Set with elegant design. Perfect for contemporary living spaces.',
+    price: 400.99,
+    category: 'Sofa Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/sofa/sofa-19.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+{
+  id: '122',
+    name: 'Sofa Sets 20',
+    description: 'Sofa Set with elegant design. Perfect for contemporary living spaces.',
+    price: 400.99,
+    category: 'Sofa Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/sofa/sofa-20.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+{
+  id: '123',
+    name: 'Sofa Sets 21',
+    description: 'Sofa Set with elegant design. Perfect for contemporary living spaces.',
+    price: 400.99,
+    category: 'Sofa Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/sofa/sofa-21.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+{
+  id: '124',
+    name: 'Sofa Sets 22',
+    description: 'Sofa Set with elegant design. Perfect for contemporary living spaces.',
+    price: 400.99,
+    category: 'Sofa Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/sofa/sofa-22.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+{
+  id: '125',
+    name: 'Sofa Sets 23',
+    description: 'Sofa Set with elegant design. Perfect for contemporary living spaces.',
+    price: 400.99,
+    category: 'Sofa Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/sofa/sofa-23.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+{
+  id: '126',
+    name: 'Sofa Sets 24',
+    description: 'Sofa Set with elegant design. Perfect for contemporary living spaces.',
+    price: 400.99,
+    category: 'Sofa Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/sofa/sofa-24.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+{
+  id: '127',
+    name: 'Sofa Sets 25',
+    description: 'Sofa Set with elegant design. Perfect for contemporary living spaces.',
+    price: 400.99,
+    category: 'Sofa Sets',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/sofa/sofa-25.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '120 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+{
+  id: '128',
+    name: 'Chair 05',
+    description: 'Chair with elegant design. Perfect for contemporary living spaces.',
+    price: 200.99,
+    category: 'Chairs',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/chairs/chair-05.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '40 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+{
+  id: '129',
+    name: 'Chair 06',
+    description: 'Chair with elegant design. Perfect for contemporary living spaces.',
+    price: 200.99,
+    category: 'Chairs',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/chairs/chair-06.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '40 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+{
+  id: '130',
+    name: 'Chair 07',
+    description: 'Chair with elegant design. Perfect for contemporary living spaces.',
+    price: 200.99,
+    category: 'Chairs',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/chairs/chair-07.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '40 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+{
+  id: '131',
+    name: 'Chair 08',
+    description: 'Chair with elegant design. Perfect for contemporary living spaces.',
+    price: 200.99,
+    category: 'Chairs',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/chairs/chair-08.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '40 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+{
+  id: '132',
+    name: 'Chair 09',
+    description: 'Chair with elegant design. Perfect for contemporary living spaces.',
+    price: 200.99,
+    category: 'Chairs',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/chairs/chair-09.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '40 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
+{
+  id: '133',
+    name: 'Chair 10',
+    description: 'Chair with elegant design. Perfect for contemporary living spaces.',
+    price: 200.99,
+    category: 'Chairs',
+    material: 'Wood',
+    images: [
+      '/images/catalogue/chairs/chair-10.jpeg',
+    ],
+    specifications: {
+      dimensions: '72" W x 84" L',
+      weight: '40 lbs',
+      color: 'Grey & Brown'
+    },
+  },
+
 ];
